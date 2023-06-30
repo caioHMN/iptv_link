@@ -1,109 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy TV FHD" tvg-logo="https://i.imgur.com/LIquWFN.png" group-title="CANAIS | ADULTOS",Playboy TV FHD
-http://104.21.235.90:80/luci827/luci728/204548
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD H265²" tvg-logo="https://i.imgur.com/LIquWFN.png" group-title="CANAIS | ADULTOS",PLAYBOY FHD H265²
-http://104.21.235.90:80/luci827/luci728/203948
+
 #EXTINF:-1 tvg-id="" tvg-name="Playboy TV HD" tvg-logo="https://i.imgur.com/LIquWFN.png" group-title="CANAIS | ADULTOS",Playboy TV HD
 http://104.21.235.90:80/luci827/luci728/204549
 #EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy TV SD" tvg-logo="https://i.imgur.com/LIquWFN.png" group-title="CANAIS | ADULTOS",Playboy TV SD
 http://104.21.235.90:80/luci827/luci728/204550
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT FHD H265²" tvg-logo="https://i.imgur.com/St7ijbm.png" group-title="CANAIS | ADULTOS",SEXY HOT FHD H265²
-http://104.21.235.90:80/luci827/luci728/203954
+
 #EXTINF:-1 tvg-id="" tvg-name="SEXY HOT HD²" tvg-logo="https://i.imgur.com/St7ijbm.png" group-title="CANAIS | ADULTOS",SEXY HOT HD²
 http://104.21.235.90:80/luci827/luci728/203955
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD²" tvg-logo="https://i.imgur.com/St7ijbm.png" group-title="CANAIS | ADULTOS",SEXY HOT SD²
-http://104.21.235.90:80/luci827/luci728/203956
+
 #EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE FHD H265²" tvg-logo="https://i.imgur.com/FnkGV51.png" group-title="CANAIS | ADULTOS",SEX PRIVE FHD H265²
 http://104.21.235.90:80/luci827/luci728/203951
 #EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE HD²" tvg-logo="https://i.imgur.com/FnkGV51.png" group-title="CANAIS | ADULTOS",SEX PRIVE HD²
 http://104.21.235.90:80/luci827/luci728/203952
-#EXTINF:-1 tvg-id="" tvg-name="SEX PRIVE SD²" tvg-logo="https://i.imgur.com/FnkGV51.png" group-title="CANAIS | ADULTOS",SEX PRIVE SD²
-http://104.21.235.90:80/luci827/luci728/203953
+
 #EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="https://i.imgur.com/O6KOyMf.png" group-title="CANAIS | ADULTOS",SEXTREME
 http://104.21.235.90:80/luci827/luci728/251738
 #EXTINF:-1 tvg-id="" tvg-name="VENUS SD" tvg-logo="https://i.imgur.com/rUNASZc.png" group-title="CANAIS | ADULTOS",VENUS SD
-http://104.21.235.90:80/luci827/luci728/251739
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 01" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 01
-http://104.21.235.90:80/luci827/luci728/251742
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 02" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 02
-http://104.21.235.90:80/luci827/luci728/251743
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 03" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 03
-http://104.21.235.90:80/luci827/luci728/251744
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 04" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 04
-http://104.21.235.90:80/luci827/luci728/251745
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 05" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 05
-http://104.21.235.90:80/luci827/luci728/251746
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 06" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 06
-http://104.21.235.90:80/luci827/luci728/251747
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 07" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 07
-http://104.21.235.90:80/luci827/luci728/251748
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 08" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 08
-http://104.21.235.90:80/luci827/luci728/251749
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS TV 09" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS TV 09
-http://104.21.235.90:80/luci827/luci728/251750
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DAS BRASILEIRINHAS 24HRS" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",A CASA DAS BRASILEIRINHAS 24HRS
-http://104.21.235.90:80/luci827/luci728/249588
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS: A CAMPEA DO ANAL" tvg-logo="https://i.imgur.com/gz9HzDz.png" group-title="CANAIS | ADULTOS",BRASILEIRINHAS: A CAMPEA DO ANAL
-http://104.21.235.90:80/luci827/luci728/249578
+
 #EXTINF:-1 tvg-id="" tvg-name="P2STV 01 TRANS E MULHER-XXX" tvg-logo="https://i.ibb.co/XDgGXKY/18-LGBT-removebg-preview.png" group-title="CANAIS | ADULTOS",P2STV 01 TRANS E MULHER-XXX
 http://104.21.235.90:80/luci827/luci728/269172
 #EXTINF:-1 tvg-id="" tvg-name="P2STV 02 TRANS E MULHER-XXX" tvg-logo="https://i.ibb.co/XDgGXKY/18-LGBT-removebg-preview.png" group-title="CANAIS | ADULTOS",P2STV 02 TRANS E MULHER-XXX
 http://104.21.235.90:80/luci827/luci728/269369
 #EXTINF:-1 tvg-id="" tvg-name="P2STV 03 TRANS E HOMEM-XXX" tvg-logo="https://i.ibb.co/XDgGXKY/18-LGBT-removebg-preview.png" group-title="CANAIS | ADULTOS",P2STV 03 TRANS E HOMEM-XXX
 http://104.21.235.90:80/luci827/luci728/269767
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",AdultIPTV.net Threesome
-http://104.21.235.90:80/luci827/luci728/204276
-#EXTINF:-1 tvg-id="" tvg-name="REDLIGHT" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",REDLIGHT
-http://104.21.235.90:80/luci827/luci728/251741
-#EXTINF:-1 tvg-id="" tvg-name="SEXT6SENSO" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",SEXT6SENSO
-http://104.21.235.90:80/luci827/luci728/251740
-#EXTINF:-1 tvg-id="" tvg-name="XX: Anal" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Anal
-http://104.21.235.90:80/luci827/luci728/204281
-#EXTINF:-1 tvg-id="" tvg-name="XX: Asian" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Asian
-http://104.21.235.90:80/luci827/luci728/204286
-#EXTINF:-1 tvg-id="" tvg-name="XX: Big Ass" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Big Ass
-http://104.21.235.90:80/luci827/luci728/204268
-#EXTINF:-1 tvg-id="" tvg-name="XX: Big Dick" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Big Dick
-http://104.21.235.90:80/luci827/luci728/204264
-#EXTINF:-1 tvg-id="" tvg-name="XX: Big Tits" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Big Tits
-http://104.21.235.90:80/luci827/luci728/204265
-#EXTINF:-1 tvg-id="" tvg-name="XX: Blonde" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Blonde
-http://104.21.235.90:80/luci827/luci728/204284
-#EXTINF:-1 tvg-id="" tvg-name="XX: Blowjob" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Blowjob
-http://104.21.235.90:80/luci827/luci728/204272
-#EXTINF:-1 tvg-id="" tvg-name="XX: Brunette" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Brunette
-http://104.21.235.90:80/luci827/luci728/204283
-#EXTINF:-1 tvg-id="" tvg-name="XX: Compilation" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Compilation
-http://104.21.235.90:80/luci827/luci728/204282
-#EXTINF:-1 tvg-id="" tvg-name="XX: Cuckold" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Cuckold
-http://104.21.235.90:80/luci827/luci728/204275
-#EXTINF:-1 tvg-id="" tvg-name="XX: Fetish" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Fetish
-http://104.21.235.90:80/luci827/luci728/204266
-#EXTINF:-1 tvg-id="" tvg-name="XX: Gangbang" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Gangbang
-http://104.21.235.90:80/luci827/luci728/204280
-#EXTINF:-1 tvg-id="" tvg-name="XX: Gay" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Gay
-http://104.21.235.90:80/luci827/luci728/204285
-#EXTINF:-1 tvg-id="" tvg-name="XX: Hardcore" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Hardcore
-http://104.21.235.90:80/luci827/luci728/204274
-#EXTINF:-1 tvg-id="" tvg-name="XX: Interracial" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Interracial
-http://104.21.235.90:80/luci827/luci728/204269
-#EXTINF:-1 tvg-id="" tvg-name="XX: Latina" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Latina
-http://104.21.235.90:80/luci827/luci728/204270
-#EXTINF:-1 tvg-id="" tvg-name="XX: Lesbian" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Lesbian
-http://104.21.235.90:80/luci827/luci728/204278
-#EXTINF:-1 tvg-id="" tvg-name="XX: Live Cams" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Live Cams
-http://104.21.235.90:80/luci827/luci728/204262
-#EXTINF:-1 tvg-id="" tvg-name="XX: MILF" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: MILF
-http://104.21.235.90:80/luci827/luci728/204263
-#EXTINF:-1 tvg-id="" tvg-name="XX: Pornstar" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Pornstar
-http://104.21.235.90:80/luci827/luci728/204267
-#EXTINF:-1 tvg-id="" tvg-name="XX: POV" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: POV
-http://104.21.235.90:80/luci827/luci728/204271
-#EXTINF:-1 tvg-id="" tvg-name="XX: Rough" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Rough
-http://104.21.235.90:80/luci827/luci728/204279
-#EXTINF:-1 tvg-id="" tvg-name="XX: Russian" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Russian
-http://104.21.235.90:80/luci827/luci728/204277
-#EXTINF:-1 tvg-id="" tvg-name="XX: Teen" tvg-logo="https://i.imgur.com/RYzqHdl.png" group-title="CANAIS | ADULTOS",XX: Teen
-http://104.21.235.90:80/luci827/luci728/204273
+
+
 #EXTINF:-1 tvg-id="" tvg-name="XXX: TRANS 1" tvg-logo="" group-title="CANAIS | ADULTOS",XXX: TRANS 1
 http://104.21.235.90:80/luci827/luci728/270958
+#EXTINF:-1,RECORDTV HD
+http://51.222.87.103:8880/287994016241/287994016241/16748
+#EXTINF:-1,ANIMAL PLANET HD
+http://51.222.87.103:8880/287994016241/2879 94016241/16693
+# EXTINF:-1,DISCOVERY CHANNEL HD
+http://51.222.87.103:8880/287994016241/287994016241/16705
+#EXTINF:-1,COMEDY CENTRAL HD+
+http://51.222.87.103:8880/287994016241/2879
+94016241/16704 #EXTINF: -1,CINEMAX HD
+http://51.222.87.103:8880/287994016241/287994016241/16702
+#EXTINF:-1,Discovery Science HD+
+http://51.222.87.103:8880/287994016241/287994016241/16
+708 #EXTINF:-1, SporTV 1 HD+
+http://51.222.87.103:8880/287994016241/287994016241/16753
+#EXTINF:-1,Discovery World HD+
+http://51.222.87.103:8880/287994016241/287994016241/16712 ,ID Investigação Discovery HD +
+http : //51.222.87.103:8880/287994016241/287994016241/16736 -1 , Canal Paramount HD+ http: // 51.222.87.103:8880/287994016241/287994016241/16746 ,Descoberta Turbo HD + http://51.222.87.103 :8880/287994016241/287994016241/16711 #EXTINF:-1,TNT Sies HD+ http://51.222.87.103:8880/287994016241/287994016241/16761
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,H2 HD+
+http://51.222.87.103:8880/287994016241/287994016241/16733
+#EXTINF:-1,AXN HD+
+http://51.222.87.103:8880/287994016241/287994016241/16695
+#EXTINF:-1,SBT SP HD+
+http://51.222.87.103:8880/287994016241/287994016241/16749
+#EXTINF:-1,Globo SP HD+
+http://51.222.87.103:8880/287994016241/287994016241/16730
+#EXTINF:-1,Canal Sony HD+
+http://51.222.87.103:8880/287994016241/287994016241/16700
+#EXTINF:-1,Combate HD+
+http://51.222.87.103:8880/287994016241/287994016241/16703
+#EXTINF:-1,HBO 2 HD
+http://51.222.87.103:8880/287994016241/287994016241/31460
+#EXTINF:-1,HBO 1 HD
+http://51.222.87.103:8880/287994016241/287994016241/31465
+#EXTINF:-1,Telecine Fun HD+
+http://51.222.87.103:8880/287994016241/287994016241/16756
+#EXTINF:-1,Telecine Premium HD+
+http://51.222.87.103:8880/287994016241/28799401
+6241/16758 #EXTINF :-1 , TELECINE ACTION HD
+http://51.222.87.103:8880/287994016241/287994016241/31583
+6725 #EXTINF :-1 ,Telecine Pipoca HD+ http://51.222.87.103:8880/287994016241/287994016241/16757 16716 #EXTINF :-1,ESPN 4K http://51.222.87.103:8880/287994016241/287994016241/31034 _ _
