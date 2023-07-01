@@ -23,3 +23,21 @@ http://s.pdsrv.io:80/humbertobruni/bruni20981457/100086
 #EXTINF:-1,Band Sports HD¹
 #EXTVLCOPT:network-caching=20000
 http://s.pdsrv.io:80/humbertobruni/bruni20981457/100085
+#EXTINF:-1,Globo SP HD²
+#EXTVLCOPT:network-caching=20000
+http://s.pdsrv.io:80/humbertobruni/bruni20981457/113821
+#EXTINF:-1,Globo SP HD¹
+#EXTVLCOPT:network-caching=20000
+http://s.pdsrv.io:80/humbertobruni/bruni20981457/113820
+#EXTINF:-1,Globo Brasilia HD¹
+#EXTVLCOPT:network-caching=20000
+http://s.pdsrv.io:80/humbertobruni/bruni20981457/110900
+#EXTINF:-1,Globo Brasilia HD²
+#EXTVLCOPT:network-caching=20000
+http://s.pdsrv.io:80/humbertobruni/bruni20981457/97437
+#EXTINF:-1,Globo News HD²
+#EXTVLCOPT:network-caching=20000
+http://s.pdsrv.io:80/humbertobruni/bruni20981457/97388
+#EXTINF:-1,Globo News HD¹
+#EXTVLCOPT:network-caching=20000
+http://s.pdsrv.io:80/humbertobruni/bruni20981457/7442
